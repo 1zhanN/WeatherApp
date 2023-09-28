@@ -12,7 +12,7 @@ A simple weather app built with HTML, CSS, and JavaScript.
 
 ## Demo
 
-[Live Demo](https://1zhann.github.io/Building_Websites/)
+[Live Demo](https://1zhann.github.io/WeatherApp/)
 
 ## Usage
 
