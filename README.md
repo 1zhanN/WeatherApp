@@ -25,6 +25,3 @@ A simple weather app built with HTML, CSS, and JavaScript.
 
 Contributions are welcome! See [Contributing Guidelines](CONTRIBUTING.md).
 
-## License
-
-This project is licensed under the MIT License. See [LICENSE.md](LICENSE.md) for details.
