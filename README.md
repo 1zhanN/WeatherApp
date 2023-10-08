@@ -20,3 +20,5 @@ A simple weather app built with HTML, CSS, and JavaScript.
 2. Click the "Search" button.
 3. View the current weather conditions.
 
+# Courtesy 
+<https://www.youtube.com/watch?v=MIYQR-Ybrn4&ab_channel=GreatStack>
